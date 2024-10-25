@@ -1,4 +1,4 @@
-![Lifestyle Story](https://github.com/user-attachments/assets/7a069b0b-8955-4094-ba8a-a8c3b76ee7d8)
+![Lifestyle Story](https://github.com/user-attachments/assets/9ab1b81d-deb3-483a-8783-64909b35eda9)
 
 > Create personal stories from uploaded images.
 #
