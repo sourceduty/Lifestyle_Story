@@ -8,6 +8,9 @@
 To ensure a smooth and interactive experience, Lifestyle Story guides users through a step-by-step, multiple-choice question process to refine its storytelling approach. This helps clarify specific elements or themes that users may want to explore, making each narrative more tailored and meaningful. Whether it's a photograph of a cozy room, a bustling city street, or a serene natural landscape, this GPT interprets each scene with sensitivity and imagination, creating stories that resonate emotionally and inspire thoughtful reflection.
 
 #
+![Lifestyle Story](https://github.com/user-attachments/assets/1464af99-fa75-49b6-b709-717d51c7774e)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
