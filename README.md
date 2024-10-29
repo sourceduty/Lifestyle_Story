@@ -52,6 +52,8 @@ As the movie started, Nathan leaned back on the couch, pulling the blanket up to
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Visual Song Creator](https://github.com/sourceduty/Visual_Song_Creator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
